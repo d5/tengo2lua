@@ -1,0 +1,12 @@
+[prune]
+  go-tests = true
+  unused-packages = true
+
+
+[[constraint]]
+  name = "github.com/d5/tengo"
+  version = "1.15.0"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/yuin/gopher-lua"
