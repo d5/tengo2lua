@@ -10,6 +10,8 @@ An experimental transpiler to convert [Tengo](https://github.com/d5/tengo) sourc
 - Character literal is not supported.
 - String indexing is not supported.
 - Bitwise operators is not implemented. 
+- Different boolean truthiness
+- Different type coercion logic
 
 ### Example
 
